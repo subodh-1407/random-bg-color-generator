@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+h1{
+    margin: 50px;
+    padding-left: 300px;
+    color: orange;
+}
+.container{
+    margin: 50px;
+    padding-left: 520px;
+}
+button{
+    height: 60px;
+    width: 150px;
+    font-weight: 700;
+    font-size: larger;
+    color: #212121;
+    border-radius: 0.575rem;
+    background-image: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+    padding: 10px;
+    margin: 20px;
+}
+
+
